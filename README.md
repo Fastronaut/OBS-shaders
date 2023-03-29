@@ -1,2 +1,2 @@
 # OBS-shaders
-crap shaders
+crap obs shaders
